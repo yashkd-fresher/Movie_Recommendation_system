@@ -1,0 +1,1 @@
+This code represents a movie recommendation system project. It processes movie datasets from TMDB, merging two CSV files and extracting key features including genres, cast, crew, keywords, and overviews. The preprocessing steps include handling missing values, removing duplicates, and transforming complex JSON-like strings into simple lists of name
